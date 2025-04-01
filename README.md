@@ -61,7 +61,7 @@
 ## 📊 数据花园
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 100%;">
     <tr style="border: none;">
       <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=windy-catty&show_icons=true&theme=radical&bg_color=30,ff9a9e,fad0c4&title_color=fff&icon_color=fff&hide_border=true" />
