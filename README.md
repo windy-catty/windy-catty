@@ -5,21 +5,17 @@
 ```typescript
 // ฅ^•ﻌ•^ฅ 这是我的开发者属性配置
 interface Me {
-  name: "MeowchiCake (windy-catty)";
-  pronouns: ["she/her", "喵/喵喵"];
-  traits: ["摄影师", "茶艺初学者", "种花爱好者"];
+  name: "MeowchiCake(windy-catty)";
+  traits: ["摄影师", "茶艺初学者", "喜欢种花"];
   skills: {
-    design: ["Adobe系列", "用户研究", "系统设计"];
-    code: ["Vue", "Node.js", "AI魔法"];
-    hobbies: ["拍猫片", "煮茶", "debug时撸猫"];
+    code: ["Python", "Vue", "AI魔法"];
+    design: ["Adobe", "用户调研", "各种设计"];
   };
   currently: "在代码与设计之间寻找平衡点";
   motto: "用优雅的方式解决问题";
-  getLifeMotivation(): string {
-    return "For Love and Peace! ~(=^･ω･^)~";
-  }
 }
 ```
+
 
 ## 🌸 近期动态
 
