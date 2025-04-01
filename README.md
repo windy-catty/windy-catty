@@ -7,10 +7,10 @@
 ## 🎀 我的情况
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse; width: 100%;">
+  <table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed;">
     <tr style="border: none;">
       <!-- 基本信息 -->
-      <td style="border: none; vertical-align: top; width: 33%;">
+      <td style="border: none; vertical-align: top; width: 33.33%; padding: 0 8px;">
         <b>✨ 基本信息</b><br>
         <small>
         名字: MeowchiCat<br>
@@ -19,7 +19,7 @@
         </small>
       </td>
         <!-- 技能树 -->
-      <td style="border: none; vertical-align: top; width: 33%;">
+      <td style="border: none; vertical-align: top; width: 33.33%; padding: 0 8px;">
         <b>✨ 技能树</b><br>
         <small>
         设计：素材控/Adobe系列<br>
@@ -28,7 +28,7 @@
         </small>
       </td>
         <!-- 个人追求 -->
-      <td style="border: none; vertical-align: top; width: 33%;">
+      <td style="border: none; vertical-align: top; width: 33.33%; padding: 0 8px;">
         <b>✨ 个人追求</b><br>
         <small>
         现状：寻找代码与设计的平衡点<br>
