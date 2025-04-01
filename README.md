@@ -1,17 +1,3 @@
-## 🌸 Hey,I'm MeowchiCake. 👋
-
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="hello cat">
-</div>
-
-<p align="center">
-  <samp>
-    「全栈开发者 | 设计师转码美少女 | 在校生」
-  </samp>
-</p>
-
----
-
 ## 🌸✨ Nya~ 欢迎来到猫娘程序员的魔法仓库 ✨🌸
 
 ```typescript
