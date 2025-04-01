@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="150">
 </div>
 
-## 🎀 关于我
+## 🎀 我的情况
 
 🛠️ **基本信息**:  
 
