@@ -9,7 +9,7 @@
       <td style="border: none; vertical-align: top; width: 33.33%; padding: 0 8px;">
         <b>✨ 基本信息</b><br>
         <small>
-        名字: MeowchiCat<br>
+        名字: MeowchiCake<br>
         身份: 设计师转码的喵系美少女<br>
         特质: 摄影/茶艺/种花
         </small>
