@@ -1,4 +1,4 @@
-# 👋 你好呀，我是MeowchiCake
+# 👋 你好呀，我是MeowchiCake！！～
 
 <div align="center">
   <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="150">
