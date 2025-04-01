@@ -4,27 +4,6 @@
   <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="150">
 </div>
 
-
-## 🎀 我的情况
-
-🛠️ **基本信息**:  
-
-- **名字**: MeowchiCake (windy-catty)  
-- **身份**: 设计师转码的喵系美少女  
-- **特质**: 摄影师 | 茶艺初学者 | 种花爱好者  
-
-🛠️ **技能树**:  
-
-- 设计: Adobe系列 | 用户研究 | 系统设计  
-- 代码: Vue | Node.js | AI魔法  
-- 爱好: 拍猫片 | 煮茶 | 打卡撸猫  
-
-🛠️ **个人追求**:  
-
-- **现状**: 在代码与设计之间寻找平衡点  
-- **格言**: "用优雅的方式解决问题"  
-- **人生目标**: For Love and Peace! (=^･ω･^)~
-
 ## 🎀 我的情况
 
 <div align="center">
@@ -35,7 +14,7 @@
         <b>✨ 基本信息</b><br>
         <small>
         名字: MeowchiCat<br>
-        身份: 设计师转码美少女<br>
+        身份: 设计师转码的喵系美少女<br>
         特质: 摄影/茶艺/种花
         </small>
       </td>
