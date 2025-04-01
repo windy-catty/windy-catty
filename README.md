@@ -1,5 +1,9 @@
 # 👋 你好呀，我是MeowchiCake
 
+<div align="center">
+  <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="150">
+</div>
+
 ## 🎀 关于我
 
 🛠️ **基本信息**:  
@@ -30,11 +34,16 @@
 ## 📊 数据花园
 
 <div align="center">
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=windy-catty&show_icons=true&theme=radical&bg_color=30,ff9a9e,fad0c4&title_color=fff&icon_color=fff&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=windy-catty&layout=compact&theme=radical&bg_color=30,a18cd1,fbc2eb&title_color=fff&hide_border=true)
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=windy-catty&show_icons=true&theme=radical&bg_color=30,ff9a9e,fad0c4&title_color=fff&icon_color=fff&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windy-catty&layout=compact&theme=radical&bg_color=30,a18cd1,fbc2eb&title_color=fff&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ------
