@@ -48,7 +48,7 @@
           <li>🧶 正在编织：<strong>生物医学论文仿真</strong></li>
           <li>🎨 正在设计：<strong>个性化音乐推荐系统</strong></li>
           <li>📚 正在学习：<strong>Vue.js</strong></li>
-          <li>🐾 寻找：<strong>能容忍我边写代码边喵喵叫的wlb神仙工作</strong></li>
+          <li>🐾 寻找：<strong>能容忍我边写代码边喵喵叫还wlb的神仙工作</strong></li>
         </ul>
       </td>
       <td style="border: none; vertical-align: middle; width: 40%; text-align: center;">  <!-- 改为 middle 对齐 -->
