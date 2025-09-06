@@ -62,10 +62,10 @@
   <table style="border: none; border-collapse: collapse; width: auto;">
     <tr style="border: none;">
       <td style="border: none; padding: 0;">
-        <img height="150px" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=windy-catty&show_icons=true&theme=radical&bg_color=30,ff9a9e,fad0c4&title_color=fff&icon_color=fff&hide_border=true&timestamp=20250906" />
+        <img height="150px" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=windy-catty&show_icons=true&theme=radical&bg_color=30,ff9a9e,fad0c4&title_color=fff&icon_color=fff&hide_border=true" />
       </td>
       <td style="border: none; padding: 0;">
-        <img height="150px" style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windy-catty&layout=compact&theme=radical&bg_color=30,a18cd1,fbc2eb&title_color=fff&hide_border=true&timestamp=20250906" />
+        <img height="150px" style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windy-catty&layout=compact&theme=radical&bg_color=30,a18cd1,fbc2eb&title_color=fff&hide_border=true" />
       </td>
     </tr>
   </table>
